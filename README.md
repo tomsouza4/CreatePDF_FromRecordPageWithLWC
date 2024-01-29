@@ -27,6 +27,6 @@ This Lightning Web Component (LWC) generates a PDF document containing essential
 - Includes a "pokemonFiles" static resource containing header and footer logos.
 - Uses the ShowToastEvent to display user-friendly error messages.
 
-# Resources
+## Resources
 - Based on Coding with the Force by Matt: https://github.com/Coding-With-The-Force/Salesforce-Development-Tutorials/tree/main/lwc_pdf_generation and his YouTube video: https://youtu.be/RZ5-AArzZaY
 - Also by his recommendation found this website that helps building the file structure: https://raw.githack.com/MrRio/jsPDF/master/index.html
