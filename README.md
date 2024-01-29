@@ -1,4 +1,4 @@
-# CreatePDFs LWC Component
+# Create PDFs using LWC Component
 
 ## Overview
 
